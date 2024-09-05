@@ -1,5 +1,3 @@
 # README
 
-
-
-[Go](https://go.dev/learn/)学习笔记
+[Go](https://go.dev/learn/) 示例
